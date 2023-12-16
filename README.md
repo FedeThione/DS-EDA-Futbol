@@ -31,7 +31,6 @@ Las tecnologías y bibliotecas utilizadas incluyen Python, Markdown, Git, Numpy,
 
 - **Visualización y contrastación de hipótesis:**
 1. Demostración del cumplimiento de hipótesis mediante gráficos y pruebas.
-2. Conclusiones
 
 
 ## Requisitos
